@@ -1,9 +1,14 @@
-```
+![json3](https://github.com/Alifiananda06/tugas-json/assets/90132092/59a7db05-ebbe-41ae-968b-a57a3d0f7782)```
 Alifia Ananda Puteri (312210168)
 Febriyani Nurhida (312210222)
 ```
 
 # PARSING JSON
+(Javascript Object Notation) merupakan
+format pertukaran data yang ringan dan
+mudah dibaca (dibanding XML).
+Format ini dapat digunakan di hampir
+semua bahasa pemrograman.
 ## LAYOUT
 ## - Activity_main:
 ```
@@ -345,60 +350,12 @@ class MainActivity : AppCompatActivity() {
 
 ### DESIGN
 ## XML
-``
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical">
 
-    <androidx.appcompat.widget.LinearLayoutCompat
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginStart="16dp"
-        android:layout_marginEnd="36dp"
-        android:orientation="vertical"
-        android:layout_marginTop="8dp">
+![json1](https://github.com/Alifiananda06/tugas-json/assets/90132092/9fd49223-dd07-4d56-a544-86754954311e)
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+![json3](https://github.com/Alifiananda06/tugas-json/assets/90132092/eed43a9f-03b4-4810-bc38-df7e600632ac)
 
-            <TextView
-                android:id="@+id/judul"
-                style="@style/viewParent.headerText.NoMode"
-                android:layout_alignParentLeft="true"
-                android:layout_centerVertical="true"
-                android:text="Daftar \nPengguna \ndi RT \nAnda!" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentRight="true"
-                android:src="@drawable/ic_register_hero" />
-        </RelativeLayout>
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/rvPengguna"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginVertical="16dp"/>
-
-    </androidx.appcompat.widget.LinearLayoutCompat>
-
-    <View
-        android:layout_width="11dp"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="16dp"
-        android:background="@drawable/ic_side_bg"
-        app:layout_constraintEnd_toEndOf="parent" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
-``
-### GAMBAR
+### GAMBAR HASIL
 ![APP2](https://github.com/Alifiananda06/tugas-json/assets/90132092/f76e90bd-39ac-4442-b246-54cd11e15cd8)
+
+![APP1](https://github.com/Alifiananda06/tugas-json/assets/90132092/8aecca39-f123-4998-a256-ddb388da25f1)
