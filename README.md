@@ -1,4 +1,4 @@
-![json3](https://github.com/Alifiananda06/tugas-json/assets/90132092/59a7db05-ebbe-41ae-968b-a57a3d0f7782)```
+```
 Alifia Ananda Puteri (312210168)
 Febriyani Nurhida (312210222)
 ```
