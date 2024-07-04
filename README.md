@@ -4,6 +4,8 @@ Febriyani Nurhida (312210222)
 ```
 
 # PARSING JSON
+![SPREEDSHEET2](https://github.com/Alifiananda06/tugas-json/assets/90132092/4bd6078e-8dd9-47d1-9611-34fd81dde952)
+
 (Javascript Object Notation) merupakan
 format pertukaran data yang ringan dan
 mudah dibaca (dibanding XML).
@@ -359,3 +361,6 @@ class MainActivity : AppCompatActivity() {
 ![APP2](https://github.com/Alifiananda06/tugas-json/assets/90132092/f76e90bd-39ac-4442-b246-54cd11e15cd8)
 
 ![APP1](https://github.com/Alifiananda06/tugas-json/assets/90132092/8aecca39-f123-4998-a256-ddb388da25f1)
+
+### Demonstrasi
+https://youtube.com/shorts/sOPcmQ1GpzY?si=2WdL3yP_AcASP5yK
